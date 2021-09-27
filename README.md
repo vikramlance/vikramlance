@@ -1,6 +1,6 @@
 ### Hi there 👋
 Here is my website 
-https://vikramlance.github.io/vikramlance
+https://vikramlance.github.io/vikramlance/index.html
 <!--
 **vikramlance/vikramlance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
