@@ -1,6 +1,7 @@
 ### Hi there 👋
 Here is my website 
-https://vikramlance.github.io/vikramlance/index.html
+
+[go](https://vikramlance.github.io/vikramlance/index.html){:target="_blank" rel="noopener"}
 <!--
 **vikramlance/vikramlance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
